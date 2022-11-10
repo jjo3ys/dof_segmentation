@@ -1,0 +1,10 @@
+/__pycache__
+/configs/__pycache__
+/.devcontainer
+/data/train/images
+/data/test/images
+/val_results
+
+*.pt
+*.deb
+*.zip
