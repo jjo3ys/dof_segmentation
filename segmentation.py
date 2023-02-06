@@ -6,7 +6,7 @@ import torch.nn as nn
 import torch.backends.cudnn as cudnn
 import torch.optim
 
-from tooth import SegmentationDataset
+from dataset.tooth import SegmentationDataset
 
 from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss
 from torch.optim import SGD
@@ -16,7 +16,7 @@ from configs import update_config
 
 from matplotlib import pyplot as plt
 
-from model import UNet
+from model.unet import UNet
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Train segmentation network')
