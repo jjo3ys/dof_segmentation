@@ -8,7 +8,7 @@ DOF lab & INU 합작 프로젝트 수업
 이미지에서 이빨, 잇몸, 그 외로 구분
 </h4>
 <h4>
-result<br>
+result
 <h6>black=tooth, gray=gum, white=target</h6>
 </h4>
 <h4>
