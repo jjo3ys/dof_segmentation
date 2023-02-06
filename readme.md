@@ -11,7 +11,8 @@ best case
 
 ![screenshot](./samples/2022-09-21_000_0530.png)
 ![screenshot](./samples/2022-09-21_000_0640.png)
-![screenshot](./samples/2022-09-21_000_0140.png)
+![screenshot](./samples/2022-09-21_002_0140.png)
+
 learning curve
 
 ![screenshot](./samples/learnig_curve.png)
