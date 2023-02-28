@@ -4,6 +4,7 @@
 /data/train/images
 /data/test/images
 /val_results
+.venv
 
 *.pt
 *.deb
